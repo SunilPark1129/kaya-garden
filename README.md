@@ -22,7 +22,7 @@ Check preview website - [Link](https://sunilpark1129.github.io/kaya-garden/)
 ## Installation
 1. Clone the repo
 ```
-git clone https://github.com/SunilPark1129/kaya-garden
+git clone https://github.com/SunilPark1129/kaya-garden.git
 ```
 
 ## That can be improved
